@@ -1,0 +1,39 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+.lesson {
+
+    width: 300px;
+    height: 200px;
+
+}
+
+
+.secone {
+    background-color: purple;
+    color: yellow;
+
+
+}
+
+.sectwo,
+.secthree {
+    background-color: blue;
+    color: orange;
+
+}
+
+
+.container {
+    background-color: black;
+    color: white;
+
+
+}
+
+#secsix {
+
+    color: yellow;
+}
